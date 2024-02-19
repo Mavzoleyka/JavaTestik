@@ -1,0 +1,58 @@
+
+W
+java:S1141!"5Extract this nested try block into a separate method.(ãÔÆƒıÿÿÿÿ8ä „Ü1
+W
+java:S1141'"5Extract this nested try block into a separate method.(¯ùÎ˜úÿÿÿÿ8‘ä „Ü1
+W
+java:S1141+"5Extract this nested try block into a separate method.(ä•ûÒÿÿÿÿÿ8’ä „Ü1
+W
+java:S1141J"5Extract this nested try block into a separate method.(ì¼Ùøÿÿÿÿ8’ä „Ü1
+W
+java:S1141O"5Extract this nested try block into a separate method.(‰”¡ßúÿÿÿÿ8“ä „Ü1
+W
+java:S1141T"5Extract this nested try block into a separate method.(±‚åøÿÿÿÿ8“ä „Ü1
+W
+java:S1141v"5Extract this nested try block into a separate method.(ÑİúÜùÿÿÿÿ8“ä „Ü1
+W
+java:S1141{"5Extract this nested try block into a separate method.(ñØ†±üÿÿÿÿ8”ä „Ü1
+X
+java:S1141€"5Extract this nested try block into a separate method.(¶ú’şÿÿÿÿ8”ä „Ü1
+S
+java:S1141 "5Extract this nested try block into a separate method.(œ­³©8—ä „Ü1
+X
+java:S1141¦"5Extract this nested try block into a separate method.(Ì¤¥¯şÿÿÿÿ8™ä „Ü1
+X
+java:S1141¬"5Extract this nested try block into a separate method.(ÕêíÄúÿÿÿÿ8™ä „Ü1
+y
+java:S1104"\Make defaultFloatPath a static final constant or non-public and provide accessors if needed.(¹«£8šä „Ü1
+z
+java:S1104"]Make defaultStringPath a static final constant or non-public and provide accessors if needed.(÷ „º8›ä „Ü1
+S
+java:S1444"6Make this "public static defaultFloatPath" field final(¹«£8›ä „Ü1
+T
+java:S1444"7Make this "public static defaultStringPath" field final(÷ „º8›ä „Ü1
+0
+java:S1220""Move this file to a named package.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ÿ¤¢Ãúÿÿÿÿ8¹ì „Ü1
+j	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç©Å½8»ì „Ü1
+o
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ç©Å½8½ì „Ü1
+W
+java:S6213	":Rename this variable to not match a restricted identifier.(ç©Å½8¿ì „Ü1
+o	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òâ±ëøÿÿÿÿ8Úì „Ü1
+t
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Òâ±ëøÿÿÿÿ8Ûì „Ü1
+\
+java:S62132":Rename this variable to not match a restricted identifier.(Òâ±ëøÿÿÿÿ8İì „Ü1
+j	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñì„Ä8ùì „Ü1
+o
+java:S3776^"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Ñì„Ä8ûì „Ü1
+W
+java:S6213^":Rename this variable to not match a restricted identifier.(Ñì„Ä8ıì „Ü1
+k	java:S100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶†¡„8‘í „Ü1
+p
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(¶†¡„8’í „Ü1
+X
+java:S6213ˆ":Rename this variable to not match a restricted identifier.(¶†¡„8”í „Ü1
+E	java:S108©")Either remove or fill this block of code.(Éò§+8¥í „Ü1

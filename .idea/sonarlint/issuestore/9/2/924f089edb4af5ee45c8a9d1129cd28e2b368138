@@ -1,0 +1,30 @@
+
+Þ
+java:S1192+"ÀDefine a constant instead of duplicating this literal "Ð’Ñ‹Ð²ÐµÑÑ‚Ð¸ ÑÑ‚Ð°Ñ‚Ð¸ÑÑ‚Ð¸ÐºÑƒ?\r
+ -s : ÐºÐ¾Ñ€Ð¾Ñ‚ÐºÐ°Ñ, -f : Ð¿Ð¾Ð»Ð½Ð°Ñ\r
+ Ð¸Ð»Ð¸ Ð²Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð»ÑŽÐ±Ñ‹Ðµ Ð·Ð½Ð°ÐºÐ¸" 3 times.(ßÄ”¹8¼ô¤„Ü1
+h
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¨ÕÉ8¼ô¤„Ü1
+0
+java:S1220""Move this file to a named package.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘8Æô¤„Ü1
+c
+java:S1075
+"ARefactor your code to get this URI from a customizable parameter.(êÎŸøùÿÿÿÿ8Éô¤„Ü1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¨áÚçÿÿÿÿÿ8Éô¤„Ü1
+E	java:S106"+Replace this use of System.out by a logger.(¦©ÎËøÿÿÿÿ
+L	java:S106"+Replace this use of System.out by a logger.(Êöë¹ÿÿÿÿÿ8Ïô¤„Ü1
+\
+java:S6213":Rename this variable to not match a restricted identifier.(Â’Ï¶üÿÿÿÿ8Ðô¤„Ü1
+G	java:S106"+Replace this use of System.out by a logger.(ì®Œ³8Òô¤„Ü1
+L	java:S106"+Replace this use of System.out by a logger.(ðòÕ“ýÿÿÿÿ8Óô¤„Ü1
+G	java:S106"+Replace this use of System.out by a logger.(ºñËû8Ôô¤„Ü1
+G	java:S106"+Replace this use of System.out by a logger.(þêÜØ8Õô¤„Ü1
+G	java:S106!"+Replace this use of System.out by a logger.(¢áº§8×ô¤„Ü1
+G	java:S106+"+Replace this use of System.out by a logger.(ßÄ”¹8Ùô¤„Ü1
+G	java:S1066"+Replace this use of System.out by a logger.(Ö„¢8Üô¤„Ü1
+G	java:S1069"+Replace this use of System.out by a logger.(¢áº§8Þô¤„Ü1
+G	java:S106>"+Replace this use of System.out by a logger.(ßÄ”¹8àô¤„Ü1
+G	java:S106K"+Replace this use of System.out by a logger.(ßÄ”¹8ãô¤„Ü1

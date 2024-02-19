@@ -1,0 +1,15 @@
+
+0
+java:S1220""Move this file to a named package.
+X
+java:S3518M";Make sure "count" can't be zero before doing this division.(ã¶ 8ÅÀ£„Ü1
+r	java:S116	"QRename this field "_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èğ¤ıÿÿÿÿ8ÇÀ£„Ü1
+E
+java:S1481")Remove this unused "line" local variable.(çäªq8ÖÀ£„Ü1
+E
+java:S1481")Remove this unused "line" local variable.(çäªq8ÙÀ£„Ü1
+G	java:S106'"+Replace this use of System.out by a logger.(ˆÑ¢¨8ÛÀ£„Ü1
+G	java:S106R"+Replace this use of System.out by a logger.(–÷Ñ›8æÀ£„Ü1
+G	java:S106S"+Replace this use of System.out by a logger.(Ö¸Ò¤8çÀ£„Ü1
+L	java:S106T"+Replace this use of System.out by a logger.(¼ˆš»şÿÿÿÿ8èÀ£„Ü1
+L	java:S106U"+Replace this use of System.out by a logger.(£ÓÄÓÿÿÿÿÿ8èÀ£„Ü1
